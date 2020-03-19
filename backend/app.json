@@ -1,0 +1,10 @@
+{
+    "buildpacks": [
+        {"url": "heroku/nodejs"}
+    ],
+    "env": {
+        "MONGODB_ATLAS_URI": "mongodb+srv://weslleygod:super123@cluster0-4ek76.mongodb.net/omnistack10?retryWrites=true&w=majority"
+      }
+    
+    
+}
